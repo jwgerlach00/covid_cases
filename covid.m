@@ -1,7 +1,7 @@
 % Jacob Gerlach
 % jwgerlac@ncsu.edu
 % 10/14/2020
-% PA7part2_GERLACH.m
+% covid.m
 % 
 % Displays stats related to covid 19 cases
 
